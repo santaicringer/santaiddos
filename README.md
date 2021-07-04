@@ -1,11 +1,8 @@
 # santaiddos
-start hitting or using beginner pingers
-install main.py.txt between files
-then create a folder called santaiddos
-finally
-go to the terminal write
-cd Desktop
+
+start punching or pingering with this tool
+go to your terminal type
+git clone https://github.com/santaicringer/santaiddos.git
 cd santaiddos
 python main.py.txt ip port number attacks
-you can watch the tutorial on youtube remember that it is all for informational purposes
-
+in case the reasoning is not clear to you this is the tutorial on youtube:
